@@ -1,2 +1,3 @@
 Hi this is a demo manual file
 this a second file
+adding 3rd line
